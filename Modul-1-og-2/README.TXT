@@ -1,9 +1,3 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
-------------------------------------------------------------------------
-
 PROJECT TITLE: 
 Modul 1 og 2 - IS 110
 
@@ -34,6 +28,8 @@ PURPOSE OF PROJECT:
             - Kan lese en metodedeklarasjon og beskrive metodens signatur (navn og type på alle parametere, og returtype)
             
 VERSION or DATE:
+Prosjektstart:
+17.jan 2022
 Forfallsdato:
 21.jan 2022
 
