@@ -1,7 +1,7 @@
-PROJECT TITLE: 
+PROSJEKT TITTEL: 
 Modul 1 og 2 - IS 110
 
-PURPOSE OF PROJECT: 
+MÅLET MED PROSJEKTET: 
 Å vise læringsmålene:
     Modul 1: 
         Klassedefinisjon:
@@ -26,16 +26,17 @@ PURPOSE OF PROJECT:
         Metoder:
             - Kan forklare forskjellen på forskjellige slags metoder (constructor, setter, getter) og hvordan de brukes
             - Kan lese en metodedeklarasjon og beskrive metodens signatur (navn og type på alle parametere, og returtype)
-            
-VERSION or DATE:
+           
+DATO:
 Prosjektstart:
 17.jan 2022
 Forfallsdato:
 21.jan 2022
 
-HOW TO START THIS PROJECT:
-- Sette opp et prosjekt
+HVORDAN STARTE PROSJEKTET:
+- Lære nok om Java til å kunne forklare nok om det til å dekke læringsmålene
+- Laste ned øvelsene fra boka Objects First with Java
 - Filme og forklare etter læringsmålene
 
-AUTHORS:
+LAGET AV:
 Lill-Sirén Larsen
