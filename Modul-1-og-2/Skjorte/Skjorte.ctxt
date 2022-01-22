@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Skjorte
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Tskjorte\ here.\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Skjorte()
+comment2.params=newColor\ newSize
+comment2.target=Skjorte(java.lang.String,\ char)
+comment3.params=newColor
+comment3.target=void\ setColor(java.lang.String)
+comment4.params=newSize
+comment4.target=void\ setSize(char)
+comment5.params=
+comment5.target=int\ getPrice()
+comment6.params=
+comment6.target=int\ getBalance()
+comment7.params=sum
+comment7.target=void\ insertMoney(int)
+comment8.params=
+comment8.target=void\ buyShirt()
+numComments=9

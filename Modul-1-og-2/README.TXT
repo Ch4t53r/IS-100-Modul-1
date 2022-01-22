@@ -29,7 +29,7 @@ MÅLET MED PROSJEKTET:
            
 DATO:
 Prosjektstart:
-17.jan 2022
+13.jan 2022
 Forfallsdato:
 21.jan 2022
 
